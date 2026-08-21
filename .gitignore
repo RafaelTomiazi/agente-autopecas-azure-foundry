@@ -1,0 +1,9 @@
+﻿credenciais*.txt
+local.settings.json
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.DS_Store
+Thumbs.db
