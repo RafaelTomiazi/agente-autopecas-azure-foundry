@@ -1,4 +1,5 @@
-﻿credenciais*.txt
+.claude/
+credenciais*.txt
 local.settings.json
 .env
 .venv/
@@ -7,3 +8,5 @@ __pycache__/
 .vscode/
 .DS_Store
 Thumbs.db
+~$*
+documentos/roteiro-apresentacao.md
